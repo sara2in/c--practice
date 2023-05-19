@@ -1,0 +1,10 @@
+# ninja log v5
+365	395	1684504699746777000	C___Practice	4c7a07e4e649add8
+0	365	1684504699715846151	CMakeFiles/C___Practice.dir/Functions/utils/greet.cpp.o	69f58d56753c109d
+0	361	1684504699711227900	CMakeFiles/C___Practice.dir/Functions/main.cpp.o	cc9feae43b2ce075
+417	457	1684504662614215230	Functions	f249f8a74a7c46d4
+2	334	1684504097892741589	CMakeFiles/C___Practice.dir/Loops/main.cpp.o	c0f145cb7e11a35c
+1	417	1684504662572467602	CMakeFiles/Functions.dir/Functions/utils/greet.cpp.o	fd6969f65ced1e
+0	414	1684504662569126799	CMakeFiles/Functions.dir/Functions/main.cpp.o	6482a500238eea21
+1	685	1684243980285677931	CMakeFiles/C___Practice.dir/main.cpp.o	7e81d0ade7d8144f
+1	55	1684505394915030705	build.ninja	d600c3f72864ec05
