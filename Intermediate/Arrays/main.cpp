@@ -29,8 +29,14 @@ void bubbleSort(int numbers[], int size) {
             if (numbers[i] < numbers[i - 1])
                 swap(numbers, i, i -1);
     }
-
-
+}
+const int rows = 2;
+const int cols = 3;
+void printMatrix(int matrix[rows][cols]) {
+    for (int row = 0; row < rows; row++) {
+        for (int col = 0; col < cols; col++)
+            cout << matrix[row][col] << endl;
+    }
 }
 
 int main() {
@@ -102,6 +108,15 @@ int main() {
 //
 //    for (int number: numbers)
 //        cout << number << endl;
+
+    //MULTI-DIMENSIONAL ARRAYS//
+    //2x3
+    int matrix[2][3] ={
+            {11,12, 13},
+            {21, 22, 23}
+    };
+    //* Not need size
+    printMatrix(matrix);
 
     return 0;
 }

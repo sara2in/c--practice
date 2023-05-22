@@ -1,3 +1,0 @@
-/Users/mic/Desktop/Resources/C++ Practice/Intermediate/cmake-build-debug/CMakeFiles/Intermediate.dir
-/Users/mic/Desktop/Resources/C++ Practice/Intermediate/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mic/Desktop/Resources/C++ Practice/Intermediate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
